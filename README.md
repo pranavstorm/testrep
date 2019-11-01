@@ -1,2 +1,2 @@
 # testrep
-this is for testing repositoried
+this is a testing repository
